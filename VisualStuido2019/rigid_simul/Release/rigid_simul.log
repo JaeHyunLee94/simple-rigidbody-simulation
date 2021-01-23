@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\가디언\Desktop\interactive visualization\rigid_simul\rigid_simul\main.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\가디언\Desktop\interactive visualization\rigid_simul\rigid_simul\main.cpp(9,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  Sphere.cpp
+C:\Users\가디언\Desktop\interactive visualization\rigid_simul\rigid_simul\Sphere.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\가디언\Desktop\interactive visualization\rigid_simul\rigid_simul\Sphere.hpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\가디언\Desktop\interactive visualization\rigid_simul\rigid_simul\Sphere.hpp(12,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'glm/glm.hpp': No such file or directory
